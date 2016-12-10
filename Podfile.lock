@@ -1,0 +1,15 @@
+PODS:
+  - PMAlertController (1.0.5)
+  - SVProgressHUD (2.0.3)
+
+DEPENDENCIES:
+  - PMAlertController
+  - SVProgressHUD
+
+SPEC CHECKSUMS:
+  PMAlertController: 779265aacbceca054e27ef4f164169e697976d5a
+  SVProgressHUD: b0830714205bea1317ea1a2ebc71e5633af334d4
+
+PODFILE CHECKSUM: d32980e9df6faed48afdec96182b359e253dd111
+
+COCOAPODS: 1.1.0.rc.2
